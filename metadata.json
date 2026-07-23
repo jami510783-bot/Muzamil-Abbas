@@ -1,0 +1,6 @@
+{
+  "name": "MathDetective AI",
+  "description": "AI-powered mathematics tutor that analyzes student attempted solutions, identifies the first mistake, explains misconceptions, gives hints, and generates practice challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
